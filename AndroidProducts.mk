@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_Spacewar.mk
+    $(LOCAL_DIR)/Everest_Spacewar.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_Spacewar-eng \
-    pixys_Spacewar-userdebug \
-    pixys_Spacewar-user
+    Everest_Spacewar-eng \
+    Everest_Spacewar-userdebug \
+    Everest_Spacewar-user
