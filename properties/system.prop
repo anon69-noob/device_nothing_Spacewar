@@ -31,6 +31,9 @@ ro.bootloader.locked=0
 debug.hwui.skia_atrace_enabled=false
 
 # IMS Debugging
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.dbg.wfc_avail_ovr=1
 persist.vendor.ims.disableADBLogs=1
 persist.vendor.ims.disableDebugLogs=1
 persist.vendor.ims.disableIMSLogs=1
